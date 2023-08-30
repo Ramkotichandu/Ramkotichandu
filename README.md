@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Chandu Ramkoti
-- 👀 I’m interested in web development
-- 🌱 I’m currently pursuing my bachelor's degree final year
+- 👀 I’m interested in web development 
+- 🌱 I’m recently completed my bachelor's degree 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..... Look at below link 👇
-- my linkedin profile : https://www.linkedin.com/in/chandu-ramkoti-86a158227
+- my linkedin profile : https://www.linkedin.com/in/chanduramkoti
 
 <!---
 Ramkotichandu/Ramkotichandu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
